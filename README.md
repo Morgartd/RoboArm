@@ -1,2 +1,2 @@
-# RoboArm
-A prosthesis with a neural network to help people
+# CVRobotArm
+Code for robotic arm programming. The camera follows the human hand, and the robotic arm copies the movement of the fingers.
